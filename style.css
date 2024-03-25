@@ -1,0 +1,50 @@
+body  {
+    background-color: black;
+    width: auto;
+}
+
+h1 , h2 , p , h3  {
+text-align: center;
+color: white;
+
+}
+
+#lists {
+    text-align: center;
+}
+
+li { 
+    text-align: center;
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.lgs {
+    text-align: center;
+}
+
+section {
+    text-align: center;
+    width: 100%;
+    
+}
+
+.navbar ul li {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
